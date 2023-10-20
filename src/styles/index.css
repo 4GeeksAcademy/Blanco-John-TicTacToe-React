@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    background: darkslategray;
+}
+
+.container {
+    width: 720px;
+    height: 200px;
+    display: flex;
+    border: solid 1px darkorange;
+    background: darkorange;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
